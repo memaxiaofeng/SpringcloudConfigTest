@@ -96,22 +96,3 @@ Spring Cloud Finchley; Spring Boot 2.0.3
 
 
 
-
-### 怎么支持我？
-
-* 这个系列会持续更新，敬请关注！
-
-
-* 关注我的公众号,精彩内容不能错过！
-
-<div>
-    <p align="center">
-        <img src="https://www.fangzhipeng.com/img/avatar.jpg" width="258" height="258"/>
-        <br>
-        扫码关注有惊喜
-    </p>
-    <p align="center" style="margin-top: 15px; font-size: 11px;color: #cc0000;">
-        <strong>（转载本站文章请注明作者和出处 <a href="https://www.fangzhipeng.com">方志朋的博客</a>）</strong>
-    </p>
-</div>
-
